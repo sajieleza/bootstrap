@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Assignment</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-4bw+/aepP/YC94hEpVNVgiZdgIC5+VKNBQNGCHeKRQN+PtmoHDEXuppvnDJzQIu9" crossorigin="anonymous">
+     <!-- link jsvsdcript -->
+     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-HwwvtgBNo3bZJJLYd8oVXjrBZt8cqVSpeBNS5n7C8IVInixGAoxmnlMuBnhbgrkm" crossorigin="anonymous"></script>
+</head>
+<body>
+   <nav class="bg-dark text-light p-3">
+    <ul class="nav">
+       <div class="row">
+            <div class="col-2">
+                <li class="nav-item">
+                  <a class="nav-link link-light " aria-current="page" href="#">Home</a>
+                </li>
+               
+            </div>
+            <div class="col-2">
+                <li class="nav-item">
+                  <a class="nav-link link-light " aria-current="page" href="#">About</a>
+                </li>
+               
+            </div>
+            <div class="col-2">
+                <li class="nav-item">
+                  <a class="nav-link link-light " aria-current="page" href="#">Gallery</a>
+                </li>
+               
+            </div>
+            <div class="col-2">
+                <li class="nav-item">
+                  <a class="nav-link link-light " aria-current="page" href="#">Contact</a>
+                </li>
+               
+            </div>
+            <div class="col-2"></div>
+            
+            <div class="col-2"><button class="btn btn-outline-primary" type="submit">Search</button></div>
+            
+        </ul>
+       </div>
+   </nav>
+
+    
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-4">
+                <div class="row">
+                    <img src="https://wallpapers.com/images/hd/aesthetic-computer-4k-c9qdhe02pr84wh3a.jpg" alt="imm" class="p-2">
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="row"><img src="https://wallpaperaccess.com/full/632787.jpg" alt="imgg" class="p-2"></div>
+                    </div>
+                    <div class="col-6">
+                        <div class="row"><img src="https://marketplace.canva.com/EAFHm4JWsu8/1/0/800w/canva-pink-landscape-desktop-wallpaper-ef9eLH9Ric4.jpg" alt="imm" class="p-2"></div>
+                    </div>
+                </div>
+                <div class="row">
+                    <img src="https://img.freepik.com/premium-photo/pink-sky-with-clouds_744040-1779.jpg" alt="imm" class="p-2">
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="row">
+                    <img src="https://marketplace.canva.com/EAFHm4JWsu8/1/0/800w/canva-pink-landscape-desktop-wallpaper-ef9eLH9Ric4.jpg" alt="im" class="p-2">
+                </div>
+                <div class="row">
+                    <img src="https://img.freepik.com/premium-photo/pink-sky-with-clouds_744040-1779.jpg" alt="im" class="p-2">
+                </div>
+            </div>
+            <div class="col-4">
+                <div class="row">
+                    <img src="https://images.template.net/100601/aesthetic-sunflower-wallpaper-q29l9.jpg" alt="imm" class="p-2">
+                </div>
+                <div class="row">
+                    <div class="col-6">
+                        <div class="row">
+                            <img src="https://media.istockphoto.com/id/1085148788/vector/soft-cloudy-is-gradient-pastel-abstract-paint-background-in-sweet-color.jpg?s=612x612&w=0&k=20&c=DHMbef6lODaeXk1gqwJS68SySTv3zYsWrBDEp7TdtPI=" alt="im" class="p-2">
+                        </div>
+                        <div class="row">
+                            <img src="https://img.freepik.com/free-photo/pastel-background-with-aesthetic-pink-gradient-sky_53876-129043.jpg?w=360" alt="imm" class="p-2">
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="row">
+                            <img src="https://i.pinimg.com/736x/e8/f8/fa/e8f8fa69c1a4e49698f3d1ede093d933.jpg" alt="im" class="p-2">
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
+                    <img src="https://images.template.net/100601/aesthetic-sunflower-wallpaper-q29l9.jpg" alt="im" class="p-2">
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
